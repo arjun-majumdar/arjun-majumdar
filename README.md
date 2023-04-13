@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arjun
 - 👀 I’m interested in Novel view synthesis, Generative probabilistic modelling, Representation Learning, Self-supervised learning, Sequence learning & Neural Network Pruning, Compression and Optimisation
 - 🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on my interests
+- 💞️ I’m looking to collaborate on _fun_ projects
 - 📫 How to reach me arjun.majumdar@aol.com
 
 <!---
